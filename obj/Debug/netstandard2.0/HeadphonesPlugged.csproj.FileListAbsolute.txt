@@ -1,0 +1,9 @@
+C:\Users\langh\Desktop\HeadphonesPlugged\obj\Debug\netstandard2.0\HeadphonesPlugged.csprojAssemblyReference.cache
+C:\Users\langh\Desktop\HeadphonesPlugged\obj\Debug\netstandard2.0\HeadphonesPlugged.csproj.CoreCompileInputs.cache
+C:\Users\langh\Desktop\HeadphonesPlugged\obj\Debug\netstandard2.0\HeadphonesPlugged.AssemblyInfoInputs.cache
+C:\Users\langh\Desktop\HeadphonesPlugged\obj\Debug\netstandard2.0\HeadphonesPlugged.AssemblyInfo.cs
+C:\Users\langh\Desktop\HeadphonesPlugged\bin\Debug\netstandard2.0\HeadphonesPlugged.deps.json
+C:\Users\langh\Desktop\HeadphonesPlugged\bin\Debug\netstandard2.0\HeadphonesPlugged.dll
+C:\Users\langh\Desktop\HeadphonesPlugged\bin\Debug\netstandard2.0\HeadphonesPlugged.pdb
+C:\Users\langh\Desktop\HeadphonesPlugged\obj\Debug\netstandard2.0\HeadphonesPlugged.dll
+C:\Users\langh\Desktop\HeadphonesPlugged\obj\Debug\netstandard2.0\HeadphonesPlugged.pdb

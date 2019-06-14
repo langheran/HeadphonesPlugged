@@ -1,0 +1,172 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "NAudio/1.9.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Windows.Forms"
+        ],
+        "compile": {
+          "lib/net35/NAudio.dll": {}
+        },
+        "runtime": {
+          "lib/net35/NAudio.dll": {}
+        }
+      },
+      "System.Windows.Forms/4.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/System.Windows.Forms.dll": {}
+        },
+        "runtime": {
+          "lib/System.Windows.Forms.dll": {}
+        }
+      },
+      "UnmanagedExports/1.2.7": {
+        "type": "package",
+        "compile": {
+          "lib/net/RGiesecke.DllExport.Metadata.dll": {}
+        },
+        "runtime": {
+          "lib/net/RGiesecke.DllExport.Metadata.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NAudio/1.9.0": {
+      "sha512": "PjcPhL5AnbF1YmZxqFYuAEVVRNCNWWIm6Gi32AGQ0dmHF9+s7TUFfVxEo46MbeIfpUE+Wz60ZNTLMXTxBI1m9w==",
+      "type": "package",
+      "path": "naudio/1.9.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/NAudio.dll",
+        "lib/net35/NAudio.xml",
+        "lib/netstandard2.0/NAudio.dll",
+        "lib/netstandard2.0/NAudio.xml",
+        "lib/uap10.0.10240/NAudio.dll",
+        "lib/uap10.0.10240/NAudio.pri",
+        "lib/uap10.0.10240/NAudio.xml",
+        "naudio.1.9.0.nupkg.sha512",
+        "naudio.nuspec"
+      ]
+    },
+    "System.Windows.Forms/4.0.0": {
+      "sha512": "WL3QPG1q88aIWO0JPOlkCeyNE+FK4ufSKY5j6J6qAFQyfCFiiOYxi8RAhev9H0CS/wmKbIK8qr8xZBod85oWKw==",
+      "type": "package",
+      "path": "system.windows.forms/4.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/System.Windows.Forms.dll",
+        "system.windows.forms.4.0.0.nupkg.sha512",
+        "system.windows.forms.nuspec"
+      ]
+    },
+    "UnmanagedExports/1.2.7": {
+      "sha512": "bPIbzFaAj4AFxjHGFGPrYnUSCyIWJMkT/LFuiphWdpUbO2L9fP68W/1SP9cHCAxgiekV+kFNbybA2VvRo8PYIQ==",
+      "type": "package",
+      "path": "unmanagedexports/1.2.7",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net/RGiesecke.DllExport.Metadata.dll",
+        "tools/DllExportCmdLets.psm1",
+        "tools/Mono.Cecil.dll",
+        "tools/RGiesecke.DllExport.MSBuild.dll",
+        "tools/RGiesecke.DllExport.MSBuild.pdb",
+        "tools/RGiesecke.DllExport.dll",
+        "tools/RGiesecke.DllExport.pdb",
+        "tools/RGiesecke.DllExport.targets",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/uninstall.ps1",
+        "unmanagedexports.1.2.7.nupkg.sha512",
+        "unmanagedexports.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "NAudio >= 1.9.0",
+      "System.Windows.Forms",
+      "UnmanagedExports >= 1.2.7"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\langh\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\langh\\Desktop\\HeadphonesPlugged\\HeadphonesPlugged.csproj",
+      "projectName": "HeadphonesPlugged",
+      "projectPath": "C:\\Users\\langh\\Desktop\\HeadphonesPlugged\\HeadphonesPlugged.csproj",
+      "packagesPath": "C:\\Users\\langh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\langh\\Desktop\\HeadphonesPlugged\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\langh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+        "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "dependencies": {
+          "NAudio": {
+            "target": "Package",
+            "version": "[1.9.0, )"
+          },
+          "System.Windows.Forms": {
+            "target": "Package",
+            "version": "(, )"
+          },
+          "UnmanagedExports": {
+            "target": "Package",
+            "version": "[1.2.7, )"
+          }
+        }
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Project dependency System.Windows.Forms does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "System.Windows.Forms",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    }
+  ]
+}

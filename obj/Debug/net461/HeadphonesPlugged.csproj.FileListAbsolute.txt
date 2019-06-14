@@ -1,0 +1,12 @@
+C:\Users\langh\Desktop\HeadphonesPlugged\obj\Debug\net461\HeadphonesPlugged.csprojAssemblyReference.cache
+C:\Users\langh\Desktop\HeadphonesPlugged\obj\Debug\net461\HeadphonesPlugged.csproj.CoreCompileInputs.cache
+C:\Users\langh\Desktop\HeadphonesPlugged\obj\Debug\net461\HeadphonesPlugged.AssemblyInfoInputs.cache
+C:\Users\langh\Desktop\HeadphonesPlugged\obj\Debug\net461\HeadphonesPlugged.AssemblyInfo.cs
+C:\Users\langh\Desktop\HeadphonesPlugged\bin\Debug\net461\HeadphonesPlugged.dll
+C:\Users\langh\Desktop\HeadphonesPlugged\bin\Debug\net461\HeadphonesPlugged.pdb
+C:\Users\langh\Desktop\HeadphonesPlugged\bin\Debug\net461\NAudio.dll
+C:\Users\langh\Desktop\HeadphonesPlugged\bin\Debug\net461\System.Windows.Forms.dll
+C:\Users\langh\Desktop\HeadphonesPlugged\bin\Debug\net461\RGiesecke.DllExport.Metadata.dll
+C:\Users\langh\Desktop\HeadphonesPlugged\obj\Debug\net461\HeadphonesPlugged.csproj.CopyComplete
+C:\Users\langh\Desktop\HeadphonesPlugged\obj\Debug\net461\HeadphonesPlugged.dll
+C:\Users\langh\Desktop\HeadphonesPlugged\obj\Debug\net461\HeadphonesPlugged.pdb
